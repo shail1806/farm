@@ -1,0 +1,101 @@
+﻿route_id,origin,destination,fuel_consumption,vehicle_type,traffic_level,weather,cargo_weight,trip_duration,distance_km,carbon_emission
+Route_1,Delhi NCR Fulfillment Center,Kolkata,0.321150851,diesel,medium,rainy,1993.896863,47.14819399,116.3937573,133.2221569
+Route_2,Welspun One JNPT Navi Mumbai,Kolkata,0.219467674,diesel,high,foggy,583.806732,39.94190426,84.37720556,89.9978156
+Route_3,Delhi NCR Fulfillment Center,Kolkata,0.276174624,electric,low,clear,1605.553335,66.14007208,110.8722486,15.31005079
+Route_4,Delhi NCR Fulfillment Center,Mumbai,0.274062819,diesel,high,rainy,1318.873655,33.6914305,18.72779075,22.86569346
+Route_5,Welspun One JNPT Navi Mumbai,Kolkata,0.408891282,electric,high,rainy,1558.747226,50.3469463,30.68347287,10.35061876
+Route_6,Welspun One JNPT Navi Mumbai,Kolkata,0.413681177,diesel,medium,rainy,1952.977916,216.7628872,28.63637,42.22031031
+Route_7,Delhi NCR Fulfillment Center,Mumbai,0.244426079,electric,high,rainy,1532.045015,174.2734943,106.2031708,21.4160303
+Route_8,Chennai Electronics Hub,Kolkata,0.499322146,hybrid,medium,rainy,1755.445811,232.4759024,128.2216942,152.1208611
+Route_9,Delhi NCR Fulfillment Center,Mumbai,0.280034304,diesel,low,snowy,1800.303058,276.5547531,114.9462725,112.983037
+Route_10,Delhi NCR Fulfillment Center,Bangalore,0.492984487,diesel,medium,clear,1757.721146,187.9903737,14.26610138,22.786812
+Route_11,Delhi NCR Fulfillment Center,Kolkata,0.323311104,diesel,low,snowy,1139.137213,226.0526279,131.4100974,149.1270662
+Route_12,Delhi NCR Fulfillment Center,Bangalore,0.20991522,diesel,medium,foggy,833.8646264,234.4119246,59.58053391,48.62667509
+Route_13,Welspun One JNPT Navi Mumbai,Mumbai,0.303521374,electric,high,rainy,1094.977403,132.0196483,65.60293655,16.42731211
+Route_14,Delhi NCR Fulfillment Center,Kolkata,0.390305403,diesel,high,clear,1837.845363,95.09290473,24.68168331,39.01524717
+Route_15,Chennai Electronics Hub,Mumbai,0.404211635,hybrid,low,rainy,719.9072325,85.3622387,113.2367289,90.62777466
+Route_16,Welspun One JNPT Navi Mumbai,Bangalore,0.359280375,hybrid,low,clear,1269.989253,97.88945867,35.51974299,22.97078384
+Route_17,Chennai Electronics Hub,Mumbai,0.334334949,diesel,low,snowy,849.8421086,104.1775852,88.95511288,104.3902191
+Route_18,Chennai Electronics Hub,Kolkata,0.365867927,hybrid,medium,clear,1371.958126,85.95146523,127.699398,100.9176062
+Route_19,Chennai Electronics Hub,Kolkata,0.377809017,diesel,medium,foggy,1794.707783,267.1195802,22.48860602,33.03399596
+Route_20,Chennai Electronics Hub,Bangalore,0.224255998,diesel,low,foggy,1820.539953,234.3897657,84.94697896,61.7215773
+Route_21,Welspun One JNPT Navi Mumbai,Mumbai,0.310896337,hybrid,high,clear,855.0277905,42.6620463,42.65029762,35.80151749
+Route_22,Welspun One JNPT Navi Mumbai,Kolkata,0.272647981,diesel,medium,clear,1861.54056,102.5415701,58.009761,51.24463135
+Route_23,Chennai Electronics Hub,Bangalore,0.440941927,hybrid,medium,clear,1387.833108,35.98988035,76.3557918,72.72389513
+Route_24,Chennai Electronics Hub,Kolkata,0.34109019,electric,medium,clear,1025.32737,164.5046004,59.71460246,12.22083907
+Route_25,Welspun One JNPT Navi Mumbai,Kolkata,0.495026942,diesel,low,foggy,1562.271793,158.5768881,100.8351976,161.7282922
+Route_26,Welspun One JNPT Navi Mumbai,Mumbai,0.319647333,electric,low,rainy,1222.500482,254.4703023,77.14149425,13.56194008
+Route_27,Welspun One JNPT Navi Mumbai,Kolkata,0.444929562,hybrid,low,clear,1066.981385,113.0998547,91.78792786,73.51049257
+Route_28,Delhi NCR Fulfillment Center,Mumbai,0.439503537,electric,low,clear,1557.626546,250.4241485,113.1551466,24.8660436
+Route_29,Delhi NCR Fulfillment Center,Kolkata,0.245215263,electric,low,foggy,873.0862316,291.3529167,88.08391723,12.95971257
+Route_30,Delhi NCR Fulfillment Center,Bangalore,0.352459633,hybrid,high,foggy,995.3787935,53.87022031,92.11496085,105.1924492
+Route_31,Chennai Electronics Hub,Kolkata,0.408743842,electric,high,snowy,1151.677767,243.7908167,89.02419595,35.47838959
+Route_32,Delhi NCR Fulfillment Center,Mumbai,0.457507641,electric,low,clear,880.5232608,189.2880922,63.02816763,14.41793416
+Route_33,Chennai Electronics Hub,Mumbai,0.297787672,hybrid,medium,snowy,1107.80313,159.6124111,57.24255674,47.86552654
+Route_34,Chennai Electronics Hub,Bangalore,0.266072314,electric,low,foggy,1357.209538,143.5446602,135.9506356,21.70362014
+Route_35,Delhi NCR Fulfillment Center,Kolkata,0.41334486,hybrid,high,foggy,1611.460791,241.8604313,95.05773112,127.3048635
+Route_36,Chennai Electronics Hub,Kolkata,0.442850314,electric,high,rainy,1650.79228,202.6275664,44.20944177,16.15198626
+Route_37,Delhi NCR Fulfillment Center,Bangalore,0.304599796,hybrid,medium,clear,1734.185528,247.3620602,79.7546777,52.47343852
+Route_38,Delhi NCR Fulfillment Center,Kolkata,0.228852965,hybrid,high,snowy,1616.317485,273.8507858,56.24878738,45.18318328
+Route_39,Welspun One JNPT Navi Mumbai,Kolkata,0.482156979,electric,low,foggy,1521.559141,196.6612023,140.7168553,40.70856834
+Route_40,Delhi NCR Fulfillment Center,Mumbai,0.319271606,electric,medium,foggy,856.2597069,294.7249358,11.05481084,2.541230794
+Route_41,Welspun One JNPT Navi Mumbai,Kolkata,0.355325405,electric,low,snowy,1100.334339,194.1837194,41.54659168,9.595663689
+Route_42,Delhi NCR Fulfillment Center,Kolkata,0.451313032,diesel,low,rainy,1216.572336,201.8939668,61.14995475,81.96538127
+Route_43,Delhi NCR Fulfillment Center,Bangalore,0.402707035,diesel,medium,foggy,624.3369825,179.8002143,78.29337211,122.5858863
+Route_44,Welspun One JNPT Navi Mumbai,Bangalore,0.420564836,diesel,low,clear,1292.555182,54.57056458,129.1144525,146.612696
+Route_45,Welspun One JNPT Navi Mumbai,Mumbai,0.262721486,hybrid,high,foggy,1154.503747,226.1271988,22.30426744,18.98578534
+Route_46,Delhi NCR Fulfillment Center,Kolkata,0.362434392,electric,low,clear,1703.163874,177.8105029,122.8210841,22.25729249
+Route_47,Chennai Electronics Hub,Kolkata,0.40873532,hybrid,medium,snowy,1966.851003,151.7458208,17.79148851,20.41980337
+Route_48,Welspun One JNPT Navi Mumbai,Kolkata,0.268565007,diesel,medium,clear,1334.007558,275.8272452,127.9239649,111.3131176
+Route_49,Chennai Electronics Hub,Mumbai,0.252486478,electric,medium,snowy,984.0295824,110.4490519,17.2289669,3.393063316
+Route_50,Chennai Electronics Hub,Mumbai,0.494650503,hybrid,low,clear,565.1011749,171.3726145,12.5539474,11.17766951
+Route_51,Chennai Electronics Hub,Bangalore,0.354990767,electric,medium,snowy,1886.964995,218.3633053,107.5746047,29.78663336
+Route_52,Welspun One JNPT Navi Mumbai,Mumbai,0.278248752,hybrid,medium,clear,1878.673573,245.0473794,149.6157749,89.92166984
+Route_53,Chennai Electronics Hub,Kolkata,0.49887611,electric,low,rainy,879.485252,154.0236381,135.5254368,37.18572149
+Route_54,Welspun One JNPT Navi Mumbai,Kolkata,0.489625805,diesel,high,clear,1543.116685,257.3646821,90.63977849,179.7372769
+Route_55,Chennai Electronics Hub,Mumbai,0.367488036,diesel,low,clear,613.1518206,237.6077902,138.4353858,137.3580398
+Route_56,Delhi NCR Fulfillment Center,Kolkata,0.464790903,electric,medium,rainy,749.3231479,47.88371402,10.7420009,3.295237635
+Route_57,Delhi NCR Fulfillment Center,Kolkata,0.256612133,hybrid,medium,foggy,825.2136599,42.38254193,146.5094028,97.44906602
+Route_58,Welspun One JNPT Navi Mumbai,Mumbai,0.283661406,diesel,low,foggy,941.7409203,197.6175348,78.7048291,72.33469278
+Route_59,Delhi NCR Fulfillment Center,Mumbai,0.410107349,diesel,high,clear,1993.747063,123.8016202,111.2054535,184.7050036
+Route_60,Delhi NCR Fulfillment Center,Kolkata,0.453998343,diesel,medium,rainy,1545.387584,86.46531359,124.9206062,202.1277986
+Route_61,Chennai Electronics Hub,Kolkata,0.456897288,electric,medium,clear,1076.302747,186.5054823,110.5840179,30.3153227
+Route_62,Welspun One JNPT Navi Mumbai,Kolkata,0.321352438,electric,medium,snowy,1605.651059,122.2220668,84.90514249,21.28189015
+Route_63,Chennai Electronics Hub,Bangalore,0.46633103,hybrid,low,snowy,1872.881513,175.0611225,76.72672778,83.72532628
+Route_64,Chennai Electronics Hub,Bangalore,0.455278535,hybrid,medium,clear,1938.053611,154.2321729,127.4015582,125.2869006
+Route_65,Chennai Electronics Hub,Bangalore,0.480690498,hybrid,high,foggy,586.7958466,187.8868486,38.71085842,60.28973151
+Route_66,Chennai Electronics Hub,Mumbai,0.435602195,electric,medium,foggy,1091.782698,138.081132,145.5191693,45.63969812
+Route_67,Chennai Electronics Hub,Bangalore,0.400696476,electric,medium,clear,660.1340989,218.3702449,109.533347,26.33377572
+Route_68,Chennai Electronics Hub,Mumbai,0.374205986,hybrid,high,clear,1003.490097,78.61816353,37.93096983,38.32378915
+Route_69,Chennai Electronics Hub,Mumbai,0.31168483,hybrid,medium,snowy,754.5198558,218.0553959,113.0746057,98.96413903
+Route_70,Welspun One JNPT Navi Mumbai,Bangalore,0.482040033,electric,low,foggy,1470.272543,141.1485279,84.17760325,24.34618477
+Route_71,Delhi NCR Fulfillment Center,Bangalore,0.492099151,hybrid,low,clear,1082.402576,266.0657533,109.0122134,96.56067179
+Route_72,Chennai Electronics Hub,Bangalore,0.285176292,diesel,low,snowy,844.0921186,169.1137348,117.4891302,117.6029521
+Route_73,Chennai Electronics Hub,Kolkata,0.291609158,electric,high,foggy,898.9068874,292.7397943,22.22062514,5.831764011
+Route_74,Chennai Electronics Hub,Bangalore,0.345684126,hybrid,medium,rainy,1040.517643,192.5225568,80.85455389,66.40952266
+Route_75,Chennai Electronics Hub,Kolkata,0.334527243,electric,low,snowy,889.9247943,90.43924779,140.4820079,30.54678821
+Route_76,Chennai Electronics Hub,Mumbai,0.498337239,diesel,high,foggy,1179.86127,251.8834719,54.8899069,132.9389074
+Route_77,Chennai Electronics Hub,Kolkata,0.252777576,electric,medium,foggy,548.4739267,123.1723095,93.14363366,16.95212778
+Route_78,Delhi NCR Fulfillment Center,Bangalore,0.205422609,electric,high,snowy,919.6452608,123.8571879,61.69226741,12.35616187
+Route_79,Delhi NCR Fulfillment Center,Mumbai,0.348168115,electric,low,rainy,1116.810081,38.587264,73.59751611,14.09336963
+Route_80,Chennai Electronics Hub,Mumbai,0.253646813,electric,low,snowy,1404.172823,178.1531335,86.80443651,14.31148463
+Route_81,Delhi NCR Fulfillment Center,Mumbai,0.309940635,diesel,low,foggy,906.4364638,174.294346,86.84907718,87.21450845
+Route_82,Welspun One JNPT Navi Mumbai,Kolkata,0.423251157,electric,high,clear,699.7776878,126.1177008,38.24226473,12.13956209
+Route_83,Chennai Electronics Hub,Bangalore,0.416281977,electric,high,clear,614.3005694,271.438661,105.8400167,33.04446857
+Route_84,Welspun One JNPT Navi Mumbai,Mumbai,0.292418238,hybrid,low,snowy,1910.797741,64.76206754,22.30153557,15.2600192
+Route_85,Welspun One JNPT Navi Mumbai,Mumbai,0.362762069,electric,high,foggy,1124.958587,119.1268686,29.43546828,9.610264243
+Route_86,Chennai Electronics Hub,Mumbai,0.352644223,hybrid,low,clear,1371.743932,116.8273465,10.37952592,6.588503735
+Route_87,Delhi NCR Fulfillment Center,Kolkata,0.390899785,diesel,low,foggy,1878.764828,54.91845828,26.33744898,33.35678222
+Route_88,Welspun One JNPT Navi Mumbai,Kolkata,0.275138546,diesel,medium,snowy,624.1226301,159.9092564,76.24326815,88.35706956
+Route_89,Chennai Electronics Hub,Bangalore,0.376961254,diesel,high,clear,1814.992229,215.7018736,94.85426335,144.8133474
+Route_90,Welspun One JNPT Navi Mumbai,Kolkata,0.493667857,diesel,low,foggy,1327.381809,168.1473937,121.200523,193.8582801
+Route_91,Welspun One JNPT Navi Mumbai,Mumbai,0.346022646,hybrid,low,clear,747.2513917,72.38397433,24.93789502,15.53233755
+Route_92,Welspun One JNPT Navi Mumbai,Bangalore,0.471829636,electric,high,snowy,1116.882675,131.8672106,129.1018444,59.39122438
+Route_93,Welspun One JNPT Navi Mumbai,Mumbai,0.33031831,diesel,medium,foggy,1666.403426,30.70065658,114.4364336,146.9681469
+Route_94,Delhi NCR Fulfillment Center,Mumbai,0.305023522,electric,medium,clear,1220.555123,264.4412989,67.19256101,12.29718698
+Route_95,Welspun One JNPT Navi Mumbai,Kolkata,0.393531009,hybrid,low,snowy,1977.929076,52.81959207,140.6113294,129.4837088
+Route_96,Welspun One JNPT Navi Mumbai,Bangalore,0.400677218,hybrid,high,clear,1065.108455,191.2650822,148.7301267,160.9004881
+Route_97,Welspun One JNPT Navi Mumbai,Kolkata,0.45925027,hybrid,medium,clear,1624.36745,296.2893889,38.70025341,38.38989991
+Route_98,Delhi NCR Fulfillment Center,Kolkata,0.26905558,diesel,high,rainy,1089.484173,174.8794744,63.09200189,75.62476188
+Route_99,Welspun One JNPT Navi Mumbai,Bangalore,0.349758014,electric,high,rainy,1743.746331,279.491275,139.7029193,40.31132787
+Route_100,Welspun One JNPT Navi Mumbai,Mumbai,0.37160126,electric,low,snowy,1353.622204,93.75146394,111.0235171,26.81671123
